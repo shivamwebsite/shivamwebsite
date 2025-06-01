@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shivam Prasad Shaw</h1>
-<h3 align="center">ABOUT ME 👨‍💻</h3>
+<h3 align="center">⭐Don't wait for inspiration; become the inspiration through consistent effort⭐</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamwebsite&label=Profile%20views&color=0e75b6&style=flat" alt="shivamwebsite" /> </p>
-<li> Hello! I am Shivam, an undergraduate student pursuing a Bachelor's of Technology in Computer Science and Engineering from Narula Institute of Technology, Kolkata.  I am dedicated to perfecting and sharpening my skills in coding and continuously enhancing my computer science journey. I love tackling difficult challenges and learning from them.</li>
+<h3 align="left">ABOUT ME 👨‍💻</h3>
+Hello! I am Shivam, an undergraduate student pursuing a Bachelor's of Technology in Computer Science and Engineering from Narula Institute of Technology, Kolkata.  I am dedicated to perfecting and sharpening my skills in coding and continuously enhancing my computer science journey. I love tackling difficult challenges and learning from them.
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **shivamshaw@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Vahsir7](https://github.com/Vahsir7)
+- 📄 Know about my experiences [https://github.com/Vahsir7](https://github.com/shivamwebsite)
 
+<h3 align="left">Coding Journey 💻</h3>
+<p align="left">My passion for coding started with Java, which I initially learned in my higher secondary school. Since then, I have expanded my expertise to Python, a language I further honed during my studies at the Indian Institute of Technology, Madras. I am also proficient in C++, which I learned at Narula Institute of Technology.<br>
+I am a quick learner and constantly strive to learn new concepts and technologies. This continuous learning approach helps me stay updated with the latest trends and advancements in the field of computer science.</p><br>
+<h3 align="left">Web Development 🌐</h3>
+<p align="left">I have experience creating web applications using frameworks such as vite.js , Next.js , MERN Stack . These frameworks have allowed me to build dynamic and scalable web applications, enhancing my understanding of web technologies and backend development.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam shaw" height="30" width="40" /></a>
