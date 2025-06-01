@@ -14,7 +14,7 @@ Hello! I am Shivam, an undergraduate student pursuing a Bachelor's of Technolog
 
 <h3 align="left">Coding Journey 💻</h3>
 <p align="left">My passion for coding started with Java, which I initially learned in my higher secondary school. Since then, I have expanded my expertise to Python, a language I further honed during my studies at the Indian Institute of Technology, Madras. I am also proficient in C++, which I learned at Narula Institute of Technology.<br>
-I am a quick learner and constantly strive to learn new concepts and technologies. This continuous learning approach helps me stay updated with the latest trends and advancements in the field of computer science.</p><br>
+I am a quick learner and constantly strive to learn new concepts and technologies. This continuous learning approach helps me stay updated with the latest trends and advancements in the field of computer science.</p>
 <h3 align="left">Web Development 🌐</h3>
 <p align="left">I have experience creating web applications using frameworks such as vite.js , Next.js , MERN Stack . These frameworks have allowed me to build dynamic and scalable web applications, enhancing my understanding of web technologies and backend development.</p>
 <h3 align="left">Connect with me:</h3>
