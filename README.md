@@ -12,7 +12,7 @@ Hello! I am Shivam, an undergraduate student pursuing a Bachelor's of Technolog
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **shivamshaw878@gmail.com**
+- 📫 How to reach me [LinkedIn](linkedin.com/in/shivam-shaw-a9288a272)
 
 - 📄 Know about my experiences [https://github.com/shivamwebsite](https://github.com/shivamwebsite)
 
