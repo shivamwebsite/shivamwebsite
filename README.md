@@ -1,4 +1,4 @@
-<p> <img border-radius="10px" src="banner2.png" alt="banner" /> </p>
+<p> <img style:{border-radius="10px"} src="banner2.png" alt="banner" /> </p>
 <h1 align="center">Hi 👋, I'm Shivam Prasad Shaw</h1>
 <h3 align="center">⭐Don't wait for inspiration; become the inspiration through consistent effort⭐</h3>
 
