@@ -14,7 +14,7 @@ Hello! I am Shivam, an undergraduate student pursuing a Bachelor's of Technolog
 
 - 📫 How to reach me [LinkedIn](linkedin.com/in/shivam-shaw-a9288a272)
 
-- 📄 Know about my experiences [https://github.com/shivamwebsite](https://github.com/shivamwebsite)
+- 📄 Know about my experiences [My Portfolio](https://shivamwebsite.github.io/Protfolio)
 
 <h3 align="left">Coding Journey 💻</h3>
 <p align="left">My passion for coding started with Java, which I initially learned in my higher secondary school. Since then, I have expanded my expertise to Python, a language I further honed during my studies at the Indian Institute of Technology, Madras. I am also proficient in C++, which I learned at Narula Institute of Technology.<br>
