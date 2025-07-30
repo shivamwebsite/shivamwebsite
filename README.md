@@ -34,4 +34,4 @@ I am a quick learner and constantly strive to learn new concepts and technologie
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamwebsite&show_icons=true&locale=en" alt="shivamwebsite" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamwebsite&" alt="shivamwebsite" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamwebsite&" alt="" /></p>
